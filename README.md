@@ -4,7 +4,7 @@
 
 ![Just under $0.10/month](./pics/very-cheap.webp)
 
-## tierhive is excellent
+## tierhive
 
 - I hit the `Contact Us` button to ask a few questions about the service and to my amazement, an actual human responded to me rather swiftly. 
 - To make matters even more unlikely, it was an actual human that cared about open source and seemed to enjoy tinkering with computers. 
@@ -47,9 +47,6 @@
             - Rocky 10
             - Ubuntu 22.04
             - Ubuntu 24.04
-- The service is remarkable and I'll be really interested to see how it evolves. (it's in Alpha)
-- My referral link:
-    - [Tierhive referral link](https://tierhive.com/r/C6D360B1A147)
 
 ## What's in here
 
