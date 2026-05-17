@@ -4,6 +4,53 @@
 
 ![Just under $0.10/month](./pics/very-cheap.webp)
 
+## tierhive is excellent
+
+- I hit the `Contact Us` button to ask a few questions about the service and to my amazement, an actual human responded to me rather swiftly. 
+- To make matters even more unlikely, it was an actual human that cared about open source and seemed to enjoy tinkering with computers. 
+- [Tierhive](https://tierhive.com), depending upon how you configure it, can be shockingly cheap, but if I'm honest, knowing that it's run by people like me means that I would still prefer the service even if it were priced the same way other VPS providers are.
+    - I have never seen another VPS provider that will allow you to configure:
+        - RAM (Setting this above 2GB results in 2 vCPUs):
+            - 128MB to 8GB
+        - Fast Disk (NVMe):
+            - 1GB to 100GB
+        - CPU Priority:
+            - Low -> Medium -> High
+        - Disk IOPS:
+            - Low -> Medium -> High
+        - Network Throughput:
+            - Low -> Medium -> High
+        - **EPIC** OS Selection:
+            - Alma Linux 8
+            - Alma Linux 9
+            - Alma Linux 10
+            - Alma linux minimal 10
+            - Alpine 3.22.2
+            - Alpine 3.23.2
+            - Arch Linux -Rolling release
+            - Centos Stream 10
+            - Centos Stream 09
+            - Debian 12
+            - Debian 13
+            - Fedora Server 42
+            - Fedora Server 43
+            - FreeBSD using UFS 15.0
+            - FreeBSD using ZFS 15.0
+            - FreeBSD_unofficial UFS 14.2
+            - FreeBSD_unofficial ZFS 14.2
+            - No Operating System
+            - 0penBSD 7.8
+            - 0penSUSE 16
+            - 0penSUSE 15.6
+            - Rocky 8
+            - Rocky 9
+            - Rocky 10
+            - Ubuntu 22.04
+            - Ubuntu 24.04
+- The service is remarkable and I'll be really interested to see how it evolves. (it's in Alpha)
+- My referral link:
+    - [Tierhive referral link](https://tierhive.com/r/C6D360B1A147)
+
 ## What's in here
 
 - `cat-eyes/` - The directory that goes on the VPS's `/var/www/cat-eyes/`.
